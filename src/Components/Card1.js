@@ -12,11 +12,11 @@ const Card1=()=>{
                 <p className="absolute bottom-[5%] left-2 bg-white p-1 px-4 rounded-full font-bold">Scotland</p>
             </div>
             <div className="relative">
-                <img className="w-[300px] aspect-square rounded-3xl" src="./Images/Img4.jpg" alt=""></img>
+                <img className="w-[300px] aspect-square rounded-3xl" src="./Images/img4.jpg" alt=""></img>
                 <p className="absolute bottom-[5%] left-2 bg-white p-1 px-4 rounded-full font-bold">Newyork</p>
             </div>
             <div className="relative">
-                <img className="w-[300px] aspect-square rounded-3xl" src="./Images/Img3.jpg" alt=""></img>
+                <img className="w-[300px] aspect-square rounded-3xl" src="./Images/img3.jpg" alt=""></img>
                 <p className="absolute bottom-[5%] left-2 bg-white p-1 px-4 rounded-full font-bold">Bali</p>
             </div>
         </div>
